@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>DYNRE</Name>
+    <Assembly>DYNRE.dll</Assembly>
+    <FullClassName>DYNRE.ExternalApplication</FullClassName>
+    <AddInId>30A1563C-FDEA-4DF2-803B-4CE733090CA0</AddInId>
+    <VendorId>Osama Almughanni</VendorId>
+    <VendorDescription>dynre.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
