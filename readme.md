@@ -1,4 +1,3 @@
-Installation
 copy DYNRE.dll and DYNRE.addin to your Revit Addins directory in C:\ProgramData\Autodesk\Revit\Addins\2020\
 <br />
 
