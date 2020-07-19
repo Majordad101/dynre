@@ -2,7 +2,5 @@ Install dynre* using the msi file or copy DYNRE.dll and DYNRE.addin to your Revi
 <br />
 
 ![alt text](https://www.dynre.com/bl-content/uploads/pages/e828df52877bafe397aae2bca7f85cde/dynretab.jpg)
-<br />
 —
-<br />
 Requirements: Revit 2020/2021 and Dynamo 2.2.0
